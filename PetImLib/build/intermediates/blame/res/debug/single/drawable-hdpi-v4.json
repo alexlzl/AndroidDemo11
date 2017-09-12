@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/res/merged/debug/drawable-hdpi-v4/app_icon.png",
+        "source": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/src/main/res/drawable-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/res/merged/debug/drawable-hdpi-v4/app_icon.png",
+        "source": "/Android/AS_WorkSpace/Demo3/PetImLib/src/main/res/drawable-hdpi/app_icon.png"
+    }
+]

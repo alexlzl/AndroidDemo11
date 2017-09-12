@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:versionCode="1"
+    android:versionName="1.0.0"
+    package="com.weeho.petim">
+
+    <application
+        android:name=".application.MyApplication"
+        android:allowBackup="false"
+        android:icon="@mipmap/pettrasfered"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        tools:replace="android:icon, android:theme,android:allowBackup"
+        android:theme="@style/appTheme">
+        <activity android:name=".controller.WelcomeActivity" android:theme="@android:style/Theme.Translucent">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 设置环信应用的AppKey start-->
+        <meta-data android:name="EASEMOB_APPKEY"  android:value="1131170412115094#chongban" />
+        <!-- 声明SDK所需的service SDK核心功能-->
+        <service android:name="com.hyphenate.chat.EMChatService" android:exported="true"/>
+        <service android:name="com.hyphenate.chat.EMJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:exported="true"
+            />
+        <!-- 声明SDK所需的receiver -->
+        <receiver android:name="com.hyphenate.chat.EMMonitorReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+            <!-- 可选filter -->
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.USER_PRESENT" />
+            </intent-filter>
+        </receiver>
+        <!-- 设置环信应用的AppKey  end -->
+
+        <!-- 聊天页面 -->
+        <activity
+            android:name=".hxim.ChatActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/horizontal_slide"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".hxim.VideoCallActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/horizontal_slide"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".hxim.ImageGridActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/horizontal_slide"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".hxim.VoiceCallActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/horizontal_slide"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.hyphenate.easeui.ui.EaseShowBigImageActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/horizontal_slide"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.hyphenate.easeui.ui.EaseShowNormalFileActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/horizontal_slide"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.hyphenate.easeui.ui.EaseShowVideoActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/horizontal_slide"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".hxim.RecorderVideoActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/horizontal_slide"
+            android:windowSoftInputMode="adjustResize" />
+
+        <activity
+            android:name=".controller.LoginActivity"
+            android:windowSoftInputMode="adjustResize|stateHidden"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".controller.UserInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".controller.AlarmActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".controller.UpdateUserInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".controller.PetInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".controller.MainActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".controller.BadHabitsActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".controller.AddBadHabitActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".controller.AlarmNoticeActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".controller.H5ServerActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".controller.PetRestTimeActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".wxapi.WXEntryActivity" android:exported="true"
+            android:theme="@android:style/Theme.Translucent"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".controller.SelectPicPopupWindow"
+            android:theme="@style/MyDialogStyleBottom"
+            android:screenOrientation="portrait"/>
+       <!-- <receiver android:name=".receiver.AlarmReceiver" android:process=":remote"/>
+        <receiver android:name=".receiver.BootCompletedReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>-->
+    </application>
+
+
+    <!-- 环信Required -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+</manifest>

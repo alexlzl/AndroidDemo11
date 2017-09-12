@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataBinding/DataBinding.iml" filepath="$PROJECT_DIR$/DataBinding/DataBinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataBinding1/DataBinding1.iml" filepath="$PROJECT_DIR$/DataBinding1/DataBinding1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo3.iml" filepath="$PROJECT_DIR$/Demo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventBus/EventBus.iml" filepath="$PROJECT_DIR$/EventBus/EventBus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PetImLib/PetImLib.iml" filepath="$PROJECT_DIR$/PetImLib/PetImLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Retrofit/Retrofit.iml" filepath="$PROJECT_DIR$/Retrofit/Retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RxJava/RxJava.iml" filepath="$PROJECT_DIR$/RxJava/RxJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WindowManager/WindowManager.iml" filepath="$PROJECT_DIR$/WindowManager/WindowManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compiler/compiler.iml" filepath="$PROJECT_DIR$/compiler/compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easeUI_CN/easeUI_CN.iml" filepath="$PROJECT_DIR$/easeUI_CN/easeUI_CN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/传参数/传参数.iml" filepath="$PROJECT_DIR$/传参数/传参数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/宠物/宠物.iml" filepath="$PROJECT_DIR$/宠物/宠物.iml" />
+      <module fileurl="file://$PROJECT_DIR$/序列化/序列化.iml" filepath="$PROJECT_DIR$/序列化/序列化.iml" />
+      <module fileurl="file://$PROJECT_DIR$/编译时注解/编译时注解.iml" filepath="$PROJECT_DIR$/编译时注解/编译时注解.iml" />
+      <module fileurl="file://$PROJECT_DIR$/编译时注解1/编译时注解1.iml" filepath="$PROJECT_DIR$/编译时注解1/编译时注解1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/编译时注解lib/编译时注解lib.iml" filepath="$PROJECT_DIR$/编译时注解lib/编译时注解lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/运行时注解/运行时注解.iml" filepath="$PROJECT_DIR$/运行时注解/运行时注解.iml" />
+      <module fileurl="file://$PROJECT_DIR$/运行时注解1/运行时注解1.iml" filepath="$PROJECT_DIR$/运行时注解1/运行时注解1.iml" />
+    </modules>
+  </component>
+</project>

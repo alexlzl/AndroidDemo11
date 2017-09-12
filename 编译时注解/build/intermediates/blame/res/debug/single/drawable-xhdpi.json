@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Android/AS_WorkSpace/Demo3/编译时注解/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Android/AS_WorkSpace/Demo3/编译时注解/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Project1/Demo1/编译时注解/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Android/AS_WorkSpace/Project1/Demo1/编译时注解/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

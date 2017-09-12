@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Android/AS_WorkSpace/Demo3/编译时注解/build/intermediates/res/merged/debug/layout/item_lv.xml",
+        "source": "/Android/AS_WorkSpace/Demo3/编译时注解/src/main/res/layout/item_lv.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Project1/Demo1/编译时注解/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Android/AS_WorkSpace/Project1/Demo1/编译时注解/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Demo3/编译时注解/build/intermediates/res/merged/debug/layout/activity_second.xml",
+        "source": "/Android/AS_WorkSpace/Demo3/编译时注解/src/main/res/layout/activity_second.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Project1/Demo1/编译时注解/build/intermediates/res/merged/debug/layout/fragment_second.xml",
+        "source": "/Android/AS_WorkSpace/Project1/Demo1/编译时注解/src/main/res/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Project1/Demo1/编译时注解/build/intermediates/res/merged/debug/layout/activity_second.xml",
+        "source": "/Android/AS_WorkSpace/Project1/Demo1/编译时注解/src/main/res/layout/activity_second.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Project1/Demo1/编译时注解/build/intermediates/res/merged/debug/layout/item_lv.xml",
+        "source": "/Android/AS_WorkSpace/Project1/Demo1/编译时注解/src/main/res/layout/item_lv.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Demo3/编译时注解/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Android/AS_WorkSpace/Demo3/编译时注解/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Demo3/编译时注解/build/intermediates/res/merged/debug/layout/fragment_second.xml",
+        "source": "/Android/AS_WorkSpace/Demo3/编译时注解/src/main/res/layout/fragment_second.xml"
+    }
+]

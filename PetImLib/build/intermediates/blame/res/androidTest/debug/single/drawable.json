@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable/shape_count.xml",
+        "source": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/bundles/debug/res/drawable/shape_count.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable/shape_count.xml",
+        "source": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/bundles/debug/res/drawable/shape_count.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable/loading_head.xml",
+        "source": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/bundles/debug/res/drawable/loading_head.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable/bt_bg_yellow.xml",
+        "source": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/bundles/debug/res/drawable/bt_bg_yellow.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable/loading_refresh.xml",
+        "source": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/bundles/debug/res/drawable/loading_refresh.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable/bt_bg_yellow.xml",
+        "source": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/bundles/debug/res/drawable/bt_bg_yellow.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable/rectangle_loading_bg.xml",
+        "source": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/bundles/debug/res/drawable/rectangle_loading_bg.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable/ripple_bg.xml",
+        "source": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/bundles/debug/res/drawable/ripple_bg.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable/loading_refresh.xml",
+        "source": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/bundles/debug/res/drawable/loading_refresh.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable/loading_head.xml",
+        "source": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/bundles/debug/res/drawable/loading_head.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable/rectangle_loading_bg.xml",
+        "source": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/bundles/debug/res/drawable/rectangle_loading_bg.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable/ripple_bg.xml",
+        "source": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/bundles/debug/res/drawable/ripple_bg.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable/rounded_corners.xml",
+        "source": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/bundles/debug/res/drawable/rounded_corners.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable/rounded_corners.xml",
+        "source": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/bundles/debug/res/drawable/rounded_corners.xml"
+    }
+]

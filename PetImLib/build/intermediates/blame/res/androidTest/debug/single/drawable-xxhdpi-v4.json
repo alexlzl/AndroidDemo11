@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/nav_btn_back.png",
+        "source": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/nav_btn_back.png"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/search_clear.png",
+        "source": "/Android/AS_WorkSpace/Project1/Demo1/PetImLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/search_clear.png"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/search_clear.png",
+        "source": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/search_clear.png"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/nav_btn_back.png",
+        "source": "/Android/AS_WorkSpace/Demo3/PetImLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/nav_btn_back.png"
+    }
+]

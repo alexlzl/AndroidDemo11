@@ -1,0 +1,4 @@
+include ':app', ':运行时注解', ':序列化', ':传参数', ':WindowManager', '宠物', ':PetImLib', ':easeUI_CN', '编译时注解1', ':annotation', ':compiler', 'Retrofit', ':library', ':DataBinding', ':EventBus', ':DataBinding1', 'RxJava'
+include ':运行时注解1'
+include ':编译时注解'
+include ':编译时注解lib'

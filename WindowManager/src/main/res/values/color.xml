@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="green">#0DAB01</color>
+    <color name="blue">#0088CC</color>
+    <color name="orange">#FF6928</color>
+    <color name="red">#EE5A26</color>
+    <color name="logo_edit_divide">#73E3DE</color>
+    <color name="green_light">#52D1E0</color>
+    <color name="blue_light">#0075BA</color>
+    <color name="color_eeeeee">#eeeeee</color>
+    <color name="color_616b88">#616b88</color>
+    <color name="color_f0f4fb">#f0f4fb</color>
+    <color name="color_646464">#646464</color>
+    <color name="color_8895b4">#8895b4</color>
+    <color name="color_3ccacb">#3ccacb</color>
+    <color name="color_ec4d04">#ec4d04</color>
+    <color name="color_ff8463">#ff8463</color>
+    <color name="color_44c1de">#44c1de</color>
+    <color name="color_57607c">#57607c</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="black_grey">#ff000000</color>
+    <color name="color_0f0f0f">#0f0f0f</color>
+    <color name="color_007efd">#007efd</color>
+    <color name="color_28caca">#28caca</color>
+    <color name="color_a2aecd">#a2aecd</color>
+    <color name="color_62b2de">#62b2de</color>
+    <color name="color_e1e6ef">#e1e6ef</color>
+    <color name="color_cfd7dc">#cfd7dc</color>
+    <color name="color_dcf1ff">#dcf1ff</color>
+    <color name="color_919ebe">#919ebe</color>
+    <color name="color_ffffdc">#ffffdc</color>
+    <color name="color_f8d347">#f8d347</color>
+    <color name="color_ffc658">#ffc658</color>
+    <color name="color_66cdca">#66cdca</color>
+    <color name="color_57c8f4">#57c8f4</color>
+    <color name="color_3ecacb">#3ecacb</color>
+    <color name="color_bb97f3">#bb97f3</color>
+    <color name="color_4dd963">#4dd963</color>
+    <color name="color_6a7491">#6a7491</color>
+    <color name="color_f86657">#f86657</color>
+    <color name="color_5ab9e5">#5ab9e5</color>
+    <color name="color_f54a4a">#f54a4a</color>
+    <color name="color_d0d9e8">#d0d9e8</color>
+    <color name="color_fff104">#fff104</color>
+    <color name="color_eff6fb">#eff6fb</color>
+    <color name="color_606e84">#606e84</color>
+    <color name="color_b7bec9">#b7bec9</color>
+    <color name="color_dde4ea">#dde4ea</color>
+    <color name="color_323232">#323232</color>
+    <color name="color_f3f3f3">#f3f3f3</color>
+    <color name="color_0276ba">#0276ba</color>
+    <color name="color_b0bdd6">#b0bdd6</color>
+    <color name="color_6f7b91">#6f7b91</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_e0e3e3">#e0e3e3</color>
+    <color name="color_f44f1e">#f44f1e</color>
+    <color name="color_cdcdcd">#cdcdcd</color>
+    <color name="color_0088cc">#0088cc</color>
+    <color name="color_0086cd">#0086cd</color>
+    <color name="color_fffffd">#fffffd</color>
+    <color name="color_8c8c8c">#8c8c8c</color>
+    <color name="color_f4501d">#f4501d</color>
+    <color name="color_f5f5f5">#f5f5f5</color>
+    <color name="color_787878">#787878</color>
+    <color name="color_ff6928">#ff6928</color>
+    <color name="color_fdfae4">#fdfae4</color>
+    <color name="color_969697">#969697</color>
+    <color name="color_444444">#444444</color>
+    <color name="color_b4b4b4">#b4b4b4</color>
+    <color name="color_ff692a">#ff692a</color>
+    <color name="color_515151">#515151</color>
+    <color name="color_edf2f5">#edf2f5</color>
+    <color name="color_0195ed">#0195ED</color>
+    <color name="color_575757">#575757</color>
+    <color name="color_fd4700">#FD4700</color>
+    <color name="color_0196ec">#0196EC</color>
+    <color name="color_f0eded">#F0EDED</color>
+    <color name="color_37a8f4">#37A8F4</color>
+    <color name="color_929292">#929292</color>
+    <color name="color_f2f5f7">#F2F5F7</color>
+    <color name="gray_light">#CCCDCE</color>
+    <!-- 图标按钮背景颜色 -->
+    <color name="btn_background_color">#0086cd</color>
+    <!-- 图标按钮描边颜色 -->
+    <color name="btn_stroke">#ffffff</color>
+    <!-- 图标按钮背景颜色 -->
+    <color name="btn_cancel_background_color">#f3f3f3</color>
+    <!-- 图标按钮描边颜色 -->
+    <color name="btn_cancel_stroke">#b5b5b5</color>
+    <!-- 加载失败文字显示颜色 -->
+    <color name="load_fail_text_color">#A3A7A9</color>
+    <!-- 注销按钮背景颜色  -->
+    <color name="logout_btn_background_color">#e7450c</color>
+    <!-- 主标题字体颜色 -->
+    <color name="title_amt_text_color">#0f0f0f</color>
+    <!-- 副标题字体颜色 -->
+    <color name="subtitle_text_color">#787878</color>
+    <!-- 退回原因显示 背景颜色 -->
+    <color name="refund_pinion_background_color">#fdfae4</color>
+    <!-- 分割线颜色 -->
+    <color name="split_line_color">#cdcdcd</color>
+    <!-- 所有红色字体颜色 -->
+    <color name="red_color">#e7450c</color>
+    <!-- 异常背景提示文字 -->
+    <color name="exceptions_color">#969696</color>
+    <!-- 费用项选择列表大类字体颜色 -->
+    <color name="cost_type_group_text">#1993d1</color>
+    <!-- 费用项选择列表大类背景颜色 -->
+    <color name="cost_type_group_bg">#f1f5f9</color>
+    <!-- 转发左滑按钮背景颜色 -->
+    <color name="forward_bg">#39c0ed</color>
+
+    <!-- ZXING -->
+    <color name="viewfinder_border">#ea383838</color>
+    <color name="viewfinder_frame">#3a911f</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffff00</color> 
+    
+    <!-- ***************日历用颜色 -->
+	<!-- 星期颜色 -->
+    <color name="custom_header_text">#000000</color>
+    <!-- 选择圆圈背景色 -->
+    <color name="custom_selected">#A8D324</color>
+    <!-- 背景颜色 -->
+    <color name="custom_background">#ffffff</color>
+    <!-- 当前日期背景色 -->
+    <color name="custom_background_today">#7f778088</color>
+    <!-- 不可用背景色 -->
+    <color name="custom_background_disabled">#ffffff</color>
+    <!-- 选择后文字颜色 -->
+    <color name="custom_text_selected">#FFFFFFFF</color>
+    <!-- 不可用文字颜色 -->
+    <color name="custom_text_inactive">#7f778088</color>
+    <!-- 可用文字颜色 -->
+    <color name="custom_text_abled">#000000</color>
+    <!-- 不是本月文字颜色 -->
+    <color name="custom_text_not_month">#ffffff</color>
+    
+    <!-- **********扫一扫 -->
+    <color name="scan_abstract_goon">#128dd0</color>
+    <color name="scan_abstract_finish">#ed7753</color>
+    <color name="scan_abstract_corner">#10adf0</color>
+    <color name="fab_bg">#7f10adf0</color>
+    <color name="invoice_arrived_msg">#019442</color>
+    
+    <color name="dark_orange">#f78201</color>
+
+    <color name="pop_win_bg">#5f000000</color>
+    <color name="mask_white_bg">#6fff</color>
+    <color name="preview_disable">#9f9f9f</color>
+    <color name="rc_button_disable">#d9d9d9</color>
+
+    <!-- calendar-->
+    <color name="calendar_active_month_bg">#fff5f7f9</color>
+    <color name="calendar_bg">#ffffffff</color>
+    <color name="calendar_divider">#ffbababa</color>
+    <color name="calendar_inactive_month_bg">#ffd7d9db</color>
+    <color name="calendar_selected_day_bg">#ff379bff</color>
+    <color name="calendar_highlighted_day_bg">#ccffcc</color>
+    <color name="calendar_selected_range_bg">#ff96caff</color>
+    <color name="calendar_text_inactive">#40778088</color>
+    <color name="calendar_text_active">#ff778088</color>
+    <color name="calendar_text_selected">#ffffffff</color>
+    <color name="calendar_text_unselectable">#ff778088</color>
+    <!-- 首页字体颜色-->
+    <color name="home_text_color">#333333</color>
+
+    <color name="insurance_type_unchecked">#1688ca</color>
+    <color name="insurance_type_checked">#ffffff</color>
+    <color name="forms_list_checked">#1688ca</color>
+    <color name="forms_list_unchecked">#0f0f0f</color>
+
+</resources>

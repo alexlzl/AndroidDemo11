@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DataBinding" />
+            <option value="$PROJECT_DIR$/DataBinding1" />
+            <option value="$PROJECT_DIR$/EventBus" />
+            <option value="$PROJECT_DIR$/PetImLib" />
+            <option value="$PROJECT_DIR$/Retrofit" />
+            <option value="$PROJECT_DIR$/RxJava" />
+            <option value="$PROJECT_DIR$/WindowManager" />
+            <option value="$PROJECT_DIR$/annotation" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/compiler" />
+            <option value="$PROJECT_DIR$/easeUI_CN" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/传参数" />
+            <option value="$PROJECT_DIR$/宠物" />
+            <option value="$PROJECT_DIR$/序列化" />
+            <option value="$PROJECT_DIR$/编译时注解" />
+            <option value="$PROJECT_DIR$/编译时注解1" />
+            <option value="$PROJECT_DIR$/编译时注解lib" />
+            <option value="$PROJECT_DIR$/运行时注解" />
+            <option value="$PROJECT_DIR$/运行时注解1" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

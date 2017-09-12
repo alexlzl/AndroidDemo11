@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Android/AS_WorkSpace/Demo3/运行时注解1/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Android/AS_WorkSpace/Demo3/运行时注解1/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Android/AS_WorkSpace/Project1/Demo1/运行时注解1/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Android/AS_WorkSpace/Project1/Demo1/运行时注解1/src/main/res/menu/main.xml"
+    }
+]
